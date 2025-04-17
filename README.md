@@ -33,6 +33,16 @@ For deleting: Select a book, review its information, and confirm deletion
 The app saves all data to a CSV file and provides feedback messages after each operation. The design is user-friendly with a consistent color scheme and intuitive navigation.
 
 
+#Technical Details:
+
+The app uses PIL (Python Imaging Library) to process uploaded images
+Images are stored as files rather than in the database for better performance
+Cover image references are stored in a new "صورة الغلاف" column in the CSV file
+The application handles all image operations (save, update, delete) automatically
+
+This implementation provides a complete solution for managing book covers while maintaining the RTL support and user-friendly interface of the original application.
+
+
 
 pip install -r requirements.txt
 
