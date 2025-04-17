@@ -33,7 +33,7 @@ For deleting: Select a book, review its information, and confirm deletion
 The app saves all data to a CSV file and provides feedback messages after each operation. The design is user-friendly with a consistent color scheme and intuitive navigation.
 
 
-#Technical Details:
+# Technical Details:
 
 The app uses PIL (Python Imaging Library) to process uploaded images
 Images are stored as files rather than in the database for better performance
