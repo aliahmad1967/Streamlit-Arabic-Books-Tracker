@@ -1,8 +1,8 @@
 "# Streamlit-Arabic-Books-Tracker" 
 "# Streamlit-Arabic-Books-Tracker" 
 
-This Arabic Book Tracker application provides a complete CRUD (Create, Read, Update, Delete) solution for managing your book collection. Here's what it offers:
-Key Features:
+# This Arabic Book Tracker application provides a complete CRUD (Create, Read, Update, Delete) solution for managing your book collection. Here's what it offers:
+# Key Features:
 
 Right-to-Left Interface: Fully supports Arabic language with RTL text direction
 Modern UI: Clean design with card layout and color-coded statuses
@@ -15,14 +15,14 @@ Delete books with confirmation
 
 
 
-Main Components:
+# Main Components:
 
 Dashboard: Shows statistics about your book collection
 Book Entry Form: Captures comprehensive book details
 Book Display: Lists books with filtering options
 Book Cards: Visually appealing presentation of each book
 
-How to Use:
+# How to Use:
 
 Choose an operation from the sidebar
 For adding books: Fill in the required fields and click "إضافة الكتاب"
